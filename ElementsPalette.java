@@ -24,7 +24,7 @@ public class ElementsPalette extends JPanel {
     paletteName.setFont(new Font(null, Font.BOLD, 20));
     add(paletteName);
 
-    java.util.List<ElementType> elements = new ArrayList<>();
+    java.util.List<ElementType> elements = new ArrayList<>(); // Commit 4 master
     elements.addAll(ElementType.getInCategory(ElementCategory.OBJECT));
     elements.addAll(ElementType.getInCategory(ElementCategory.SET_COMPARISON_CONSTRAINT));
 
