@@ -1,11 +1,11 @@
 package view.diagram.elements.palette;
 
 import view.core.actions.dnd.OrmTransferableIcon;
-// Commit 5 master
+// Commit 5 master (conflict here)
 import view.diagram.elements.core.ElementCategory;
-// Commit 5 master
+// Commit 5 master (conflict here)
 import view.diagram.elements.core.ElementType;
-// Commit 5 master
+// Commit 5 master (conflict here)
 
 import javax.swing.*;
 import java.awt.*;
