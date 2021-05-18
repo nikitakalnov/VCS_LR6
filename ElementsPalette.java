@@ -22,6 +22,7 @@ public class ElementsPalette extends JPanel {
   private void initElements() {
     JLabel paletteName = new JLabel("ORM Elements");
     paletteName.setFont(new Font(null, Font.BOLD, 20));
+    // TODO: set new font
     add(paletteName);
 
     java.util.List<ElementType> elements = new ArrayList<>();
