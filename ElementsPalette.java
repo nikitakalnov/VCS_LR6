@@ -7,6 +7,7 @@ import view.diagram.elements.core.ElementCategory;
 import view.diagram.elements.core.ElementType;
 // Commit 3 other-feature
 
+// Commit 3 other-feature
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
