@@ -38,3 +38,4 @@ public class ElementsPalette extends JPanel {
   }
 
 }
+// Some other feature
