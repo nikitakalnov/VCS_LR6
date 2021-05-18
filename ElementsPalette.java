@@ -19,7 +19,7 @@ public class ElementsPalette extends JPanel {
     initElements();
   }
 
-  private void initElements() {
+  private void initElements() { // Commit 3 master
     JLabel paletteName = new JLabel("ORM Elements");
     paletteName.setFont(new Font(null, Font.BOLD, 20));
     add(paletteName);
