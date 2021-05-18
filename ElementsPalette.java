@@ -1,8 +1,11 @@
 package view.diagram.elements.palette;
 
 import view.core.actions.dnd.OrmTransferableIcon;
+// Commit 1 other-feature
 import view.diagram.elements.core.ElementCategory;
+// Commit 2 other-feature
 import view.diagram.elements.core.ElementType;
+// Commit 3 other-feature
 
 import javax.swing.*;
 import java.awt.*;
