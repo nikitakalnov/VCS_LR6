@@ -27,7 +27,7 @@ public class ElementsPalette extends JPanel {
 
     java.util.List<ElementType> elements = new ArrayList<>();
     elements.addAll(ElementType.getInCategory(ElementCategory.OBJECT)); // Commit 3 feature
-    elements.addAll(ElementType.getInCategory(ElementCategory.SET_COMPARISON_CONSTRAINT));
+    elements.addAll(ElementType.getInCategory(ElementCategory.SET_COMPARISON_CONSTRAINT)); // Commit 4 feature
 
     for(ElementType e : elements) {
       add(new OrmTransferableIcon(() -> e));
