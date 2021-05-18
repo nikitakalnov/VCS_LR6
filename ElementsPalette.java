@@ -30,6 +30,7 @@ public class ElementsPalette extends JPanel {
 
     for(ElementType e : elements) {
       add(new OrmTransferableIcon(() -> e));
+      // TODO: set tooltip for icon
     }
   }
 
