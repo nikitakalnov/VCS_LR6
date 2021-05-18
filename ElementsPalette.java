@@ -10,11 +10,11 @@ import java.util.ArrayList;
 
 public class ElementsPalette extends JPanel {
 
-  private static final Color BACKGROUND = new Color(219, 207, 217);
+  private static final Color BACKGROUND = new Color(219, 207, 217); // TODO: commit 2 feature
 
   public ElementsPalette() {
-    setBackground(BACKGROUND);
-    setLayout(new FlowLayout(FlowLayout.LEFT, 20, 12));
+    setBackground(BACKGROUND); // TODO: commit 2 feature
+    setLayout(new FlowLayout(FlowLayout.LEFT, 20, 12)); // TODO: commit 2 feature
 
     initElements();
   }
